@@ -6,7 +6,7 @@ As part of ITC, a data science bootcamp. I participated to a 24 hours hackaton w
 
 We developped a game where zombies come at players holding pannels with mails written on them and the player have to shoot the zombies if the mail they are holding is a spam. 
 
-Us, the datascience section of the team, developped a model predicting is a mail is a spam or not. We then used the models to make predictions on some of the mails database we were able to find in order to create a MySQL database that could be requested by the full stack students that were developping the design of the game. 
+Us, the datascience section of the team, developped a model predicting if a mail is a spam or not. We then used the models to make predictions on some of the mails database we were able to find in order to create a MySQL database that could be requested by the full stack students that were developping the design of the game. 
 
 
 ## Tech Stack
