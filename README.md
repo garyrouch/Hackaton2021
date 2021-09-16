@@ -1,11 +1,8 @@
 # ITC Hackaton September 2021
 
-A Python scrapper to retrieve and store information about jobs available on Indeed.
-This scrapper is part of ITC project.
+As part of ITC, a data science bootcamp. I participated to a 24 hours hackaton with the theme: Gaming for good. 
 
 ## Description 
-
-As part of ITC, a data science bootcamp. I participated to a 24 hours hackaton with the theme: Gaming for good. 
 
 We developped a game where zombies come at players holding pannels with mails written on them and the player have to shoot the zombies if the mail they are holding is a spam. 
 
